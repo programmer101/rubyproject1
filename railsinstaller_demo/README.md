@@ -1,1 +1,0 @@
-This is my first ruby on rails project. It is a website for restaraunt voting.

@@ -1,0 +1,1 @@
+This is my first ruby on rails project. It is a website for restaraunt voting. It will contain a welcome page and an add page. And it will connect to a database.
