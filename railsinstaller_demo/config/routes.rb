@@ -1,4 +1,6 @@
 RailsinstallerDemo::Application.routes.draw do
+  get "add_restaraunt/add"
+
   get "welcome/index"
 
   # The priority is based upon order of creation:
